@@ -1,0 +1,9 @@
+C:\Users\777\source\repos\WordProcessor\WordCompletion\obj\Debug\WordCompletion.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\WordProcessor\WordCompletion\bin\Debug\Database.mdf
+C:\Users\777\source\repos\WordProcessor\WordCompletion\bin\Debug\Database_log.ldf
+C:\Users\777\source\repos\WordProcessor\WordCompletion\bin\Debug\WordCompletion.exe.config
+C:\Users\777\source\repos\WordProcessor\WordCompletion\bin\Debug\WordCompletion.exe
+C:\Users\777\source\repos\WordProcessor\WordCompletion\bin\Debug\WordCompletion.pdb
+C:\Users\777\source\repos\WordProcessor\WordCompletion\obj\Debug\WordCompletion.exe
+C:\Users\777\source\repos\WordProcessor\WordCompletion\obj\Debug\WordCompletion.pdb
+C:\Users\777\source\repos\WordProcessor\WordCompletion\obj\Debug\WordCompletion.csprojAssemblyReference.cache
